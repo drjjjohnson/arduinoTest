@@ -1,5 +1,5 @@
 #include "unity.h"
-#include <sum.h>
+#include <sum/sum.h>
 
 void test_static(void)
 {
